@@ -2,7 +2,14 @@
 
 # Hello Microverse
 
-> Simple Web Page, with header.
+> Simple Web Page.
+## Hello Microverse Project initialization
+### In this project we :
+- Add Linters for HTML/CSS.
+- Update README file.
+- Add Mark up to the .html file.
+- Add style to the main header.
+
 
 ## Built With
 
@@ -19,7 +26,7 @@ Welcome to Hello Microverse Home Page.
 
 ### Run tests
 
-Linters for HTML/CSS is used to cheack this project
+We use Linters for HTML/CSS to cheack this project.
 
 ## Authors
 
